@@ -2,7 +2,7 @@
 Sever
 # Radmin sever
 *Name*: MCcumulation <br>
-*password*: 123456
+*password*: 123456:XXXXX
 <br>
 *ADDRESS*: 26.70.10.28
 # MODS
