@@ -7,3 +7,5 @@ Sever
 *ADDRESS*: 26.70.10.28:25565
 # MODS
 https://drive.google.com/file/d/1bDG9BnFl5ScC8R0qXQG8LRdZniJvj341/view?usp=sharing
+<br>
+extract this to .minecraft file
